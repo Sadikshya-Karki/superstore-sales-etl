@@ -1,0 +1,103 @@
+2026-06-08 12:00:57,400 - INFO - ETL Pipeline Started
+2026-06-08 12:00:57,437 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:00:57,437 - INFO - Rows before transform: (9800, 18)
+2026-06-08 12:00:57,438 - INFO - Starting transformations
+2026-06-08 12:00:57,438 - INFO - Validation passed
+2026-06-08 12:00:57,455 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:00:57,473 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:00:57,474 - INFO - Rows after transform: (9800, 24)
+2026-06-08 12:00:57,474 - INFO - Loading data into SQLite database
+2026-06-08 12:00:57,549 - INFO - Data loaded successfully
+2026-06-08 12:00:57,549 - INFO - ETL Pipeline Completed Successfully
+2026-06-08 12:02:12,011 - INFO - ETL Pipeline Started
+2026-06-08 12:02:12,047 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:02:12,047 - INFO - Extract completed. Shape: (9800, 18)
+2026-06-08 12:02:12,047 - INFO - Starting transformations
+2026-06-08 12:02:12,048 - INFO - Validation passed
+2026-06-08 12:02:12,065 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:02:12,083 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:02:12,083 - INFO - Transform completed. Shape: (9800, 24)
+2026-06-08 12:02:12,083 - INFO - Loading data into SQLite database
+2026-06-08 12:02:12,161 - INFO - Data loaded successfully
+2026-06-08 12:02:12,161 - INFO - Load completed successfully
+2026-06-08 12:02:12,161 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:05:28,986 - INFO - ETL Pipeline Started
+2026-06-08 12:05:29,025 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:05:29,025 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:05:29,025 - INFO - Starting transformations
+2026-06-08 12:05:29,025 - INFO - Validation passed
+2026-06-08 12:05:29,044 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:05:29,063 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:05:29,064 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:05:29,064 - INFO - Loading data into SQLite database
+2026-06-08 12:05:29,145 - INFO - Data loaded successfully
+2026-06-08 12:05:29,145 - INFO - Load completed successfully
+2026-06-08 12:05:29,145 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:08:08,421 - INFO - ETL Pipeline Started
+2026-06-08 12:08:08,459 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:08:08,459 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:08:08,459 - INFO - Starting transformations
+2026-06-08 12:08:08,459 - INFO - Validation passed
+2026-06-08 12:08:08,477 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:08:08,498 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:08:08,499 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:08:08,499 - INFO - Loading data into SQLite database
+2026-06-08 12:08:08,576 - INFO - Data loaded successfully
+2026-06-08 12:08:08,576 - INFO - Load completed successfully
+2026-06-08 12:08:08,576 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:08:35,148 - INFO - ETL Pipeline Started
+2026-06-08 12:08:35,186 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:08:35,187 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:08:35,187 - INFO - Starting transformations
+2026-06-08 12:08:35,187 - INFO - Validation passed
+2026-06-08 12:08:35,205 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:08:35,223 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:08:35,223 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:08:35,223 - INFO - Loading data into SQLite database
+2026-06-08 12:08:35,299 - INFO - Data loaded successfully
+2026-06-08 12:08:35,299 - INFO - Load completed successfully
+2026-06-08 12:08:35,300 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:15:44,880 - INFO - ETL Pipeline Started
+2026-06-08 12:15:44,917 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:15:44,918 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:15:44,918 - INFO - Starting transformations
+2026-06-08 12:15:44,918 - INFO - Validation passed
+2026-06-08 12:15:44,935 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:15:44,953 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:15:44,953 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:15:44,953 - INFO - Loading data into SQLite database
+2026-06-08 12:15:45,029 - INFO - Data loaded successfully
+2026-06-08 12:15:45,029 - INFO - Load completed successfully
+2026-06-08 12:15:45,029 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:26:08,706 - INFO - ETL Pipeline Started
+2026-06-08 12:26:08,742 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:26:08,742 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:26:08,742 - INFO - Starting transformations
+2026-06-08 12:26:08,742 - INFO - Validation passed
+2026-06-08 12:26:08,760 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:26:08,778 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:26:08,778 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:26:08,858 - INFO - Load completed successfully
+2026-06-08 12:26:08,858 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:26:35,384 - INFO - ETL Pipeline Started
+2026-06-08 12:26:35,420 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:26:35,420 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:26:35,420 - INFO - Starting transformations
+2026-06-08 12:26:35,421 - INFO - Validation passed
+2026-06-08 12:26:35,438 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:26:35,456 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:26:35,456 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:26:35,456 - INFO - Loading data into SQLite database
+2026-06-08 12:26:35,532 - INFO - Data loaded successfully
+2026-06-08 12:26:35,532 - INFO - Load completed successfully
+2026-06-08 12:26:35,532 - INFO - ETL Pipeline Finished Successfully
+2026-06-08 12:28:10,165 - INFO - ETL Pipeline Started
+2026-06-08 12:28:10,202 - INFO - Data extracted successfully. Shape: (9800, 18)
+2026-06-08 12:28:10,202 - INFO - Extract completed. Rows: 9800
+2026-06-08 12:28:10,202 - INFO - Starting transformations
+2026-06-08 12:28:10,202 - INFO - Validation passed
+2026-06-08 12:28:10,220 - INFO - Duplicates removed. Shape: (9800, 18)
+2026-06-08 12:28:10,239 - INFO - Transformations completed. Final shape: (9800, 24)
+2026-06-08 12:28:10,239 - INFO - Transform completed. Rows: 9800
+2026-06-08 12:28:10,319 - INFO - Load completed successfully
+2026-06-08 12:28:10,319 - INFO - ETL Pipeline Finished Successfully
